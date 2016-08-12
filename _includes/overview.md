@@ -1,0 +1,1 @@
+Escolha uma parada para ouvir o áudio.
